@@ -2,7 +2,7 @@ ax2 + bx + c = 0, where
 a, b and c are real numbers and
 a ≠ 0
 
-const xArray = [50,60,70,80,90,100,110,120,130,140,150];
+const xArray = [50,60,70,80,90,100,110,120,130,13240,150];
 const yArray = [7,8,8,9,9,9,10,11,14,14,15];
 const yArray2 = [7,8,8,9,9,9,10,11,14,14,15];
 
