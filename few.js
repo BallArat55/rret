@@ -4,7 +4,7 @@ a ≠ 0
 
 const xArray = [50,60,70,9,100];
 const yArray = [7,8,8,9,9,9,14,14,15];
-const yArray2 = [7,8,8,9,9,9,102,14,14,15,19,29];
+const yArray2 = [7,8,8,9,9,9,102,14,14,15,19];
 
 // Plot Scatter
 ctx.fillStyle = "red";
