@@ -3,7 +3,7 @@ a, b and c are real numbers and
 a ≠ 0
 
 const xArray = [50,60,70,100];
-const yArray = [7,8,8,9,9,9,14,14,15];
+const yArray = [7,8,8,9,9,9,14,15];
 const yArray2 = [7,8,8,9,9,9,102,1,14,15,19];
 
 // Plot Scatter
