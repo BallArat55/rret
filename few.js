@@ -1,7 +1,7 @@
 ax2 + bx + c = 0, where
 a, b and c are real numbers and
 a ≠ 0
-const xArray = [50,6,70,100];
+const xArray = [50,6,100];
 const yArray = [7,8,9,9,14,1];
 const yArray2 = [7,8,8,9,9,0,1,14,19];
 
