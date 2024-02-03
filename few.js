@@ -7,7 +7,7 @@ const yArray2 = [7,8,8,9,9,0,1,14,19];
 
 // Plot Scatter
 ctx.fillStyle = "red";
-for (let i = 0; i < xArray.length-1; i++) {
+for (let i = 0; i < xArray.length-1; i+) {
   let x = xArray[i]*400/150;
   let y = yArray[i]*400/15;
   ctx.beginPath();
