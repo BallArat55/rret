@@ -1,5 +1,5 @@
 ax2 + bx + c = 0, where
-a, b and c are ral numbers and
+a, b and c are ral nmbers and
 a ≠ 0
 const xArray = [50,6,10];
 const yArray = [7,9,9,1,1];
