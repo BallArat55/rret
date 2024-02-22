@@ -1,4 +1,4 @@
-ax2 + bx + c = 0, where
+ax2 + bx + c = 0, wre
 a, b and c are ral nmbs and
 a ≠ 0
 const Ary = [50,6,10];
