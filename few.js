@@ -1,7 +1,7 @@
 ax2 + bx + c = 0, wre
 a, b and c are ral nmbs and
 a ≠ 0
-const Ary = [50,6,10];
+const y = [50,6,10];
 const yArray = [7,9,1,1];
 const yArray2 = [7,8,9,19];
 
