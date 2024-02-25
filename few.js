@@ -3,7 +3,7 @@ a, b and c are ral nmbs and
 a ≠ 0
 const y = [50,6,10];
 const yArray = [7,9,1,1];
-const yArray2 = [7,8,9,19];
+const yArray2 = [7,9,19];
 
 // Plot Scatter
 ctx.fillStyle = "red";
