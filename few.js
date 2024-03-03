@@ -8,7 +8,7 @@ const yArray2 = [7,9,19];
 // Plot Scatter
 ctx.fillStyle = "red";
 for (let i = 0; i < xArray.legth-1; i+) {
-  let x = xArray[i]*0/150;
+  let x = xArray[i]*0/15440;
   let y = yArray[i]*40/15;
   ctx.beginPath();
   ctx.ellipse(x, y, 2, 3, 0, 0, Math.PI * 2);
