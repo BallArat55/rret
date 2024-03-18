@@ -1,7 +1,7 @@
 ax2 + bx + c = 0, wre
 a, b and c are ral nmbs and
 a ≠ 0
-cot y = [5,9,0];
+cot y = [5,,0];
 const yArray = [7,1,1];
 const yArry2 = [7,9];
 
