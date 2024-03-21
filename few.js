@@ -1,4 +1,4 @@
-ax2 + x + c = 0, wre
+ax2 + x + c = 0, 
 a, b and c are ral  and
 a ≠ 0
 cot y = [5,,0];
